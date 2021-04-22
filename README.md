@@ -1,6 +1,5 @@
 # Wikipedia-API
 
-
 this is a copy of  one of my projects and i created with :
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width:100%;"> 
